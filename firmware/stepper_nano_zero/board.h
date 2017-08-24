@@ -47,7 +47,7 @@
 #define VERSION "FW: 0.21" //this is what prints on LCD during splash screen
 
 //Define this to allow command out serial port, else hardware serial is debug log
-//#define CMD_SERIAL_PORT
+#define CMD_SERIAL_PORT
 
 #define SERIAL_BAUD (115200) //baud rate for the serial ports
 
